@@ -1,0 +1,11 @@
+.env
+vika_memory.json
+knowledge/
+__pycache__/
+*.pyc
+venv/
+models/
+*.wav
+temp_speech.wav
+.vscode/
+.idea/
